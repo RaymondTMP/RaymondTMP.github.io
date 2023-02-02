@@ -1,3 +1,9 @@
-h1 {
+body {
+    background-image: url(bg.jpg);
+    
+}
+
+h2 {
     font-weight: bold;
+    color: goldenrod;
 }
